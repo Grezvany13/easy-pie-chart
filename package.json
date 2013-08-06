@@ -1,0 +1,18 @@
+{
+  "name": "easy-pie-chart",
+  "description": "Lightweight jQuery plugin to render simple, animated and retina ready pie charts with the HTML5 canvas element",
+  "license": "Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.",
+  "version": "1.1.2",
+  "author": {
+    "name": "Robert Fleischmann",
+    "email": "rendro87@gmail.com",
+    "url": "http://robert-fleischmann.de"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}
