@@ -1,7 +1,10 @@
 {
   "name": "jquery.easy-pie-chart",
   "version": "1.2.5",
-  "main": ["./jquery.easy-pie-chart.js", "./jquery.easy-pie-chart.css"],
+  "main": [
+    "dist/jquery.easy-pie-chart.js",
+    "dist/jquery.easy-pie-chart.css"
+  ],
   "dependencies": {
     "jquery": ">=1.7.2"
   }
